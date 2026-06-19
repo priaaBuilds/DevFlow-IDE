@@ -1,0 +1,23 @@
+{
+  "name": "devflow-ide-server",
+  "version": "1.0.0",
+  "description": "DevFlow IDE - Real-time collaborative code editor backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "cors": "^2.8.5",
+    "mongoose": "^8.5.0",
+    "nanoid": "^5.0.7",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
