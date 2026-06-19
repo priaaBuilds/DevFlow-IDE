@@ -341,5 +341,3 @@ Distributed under the **MIT License**. See `LICENSE` for full details.
 **GitHub**: https://github.com/priaaBuilds/DevFlow-IDE
 
 ---
-
-*Made with code, coffee, and a passion for collaborative coding.*
